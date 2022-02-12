@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Neutrones
+comment1.params=
+comment1.target=Neutrones()
+comment1.text=\r\n\ Constructor\ heredado\ de\ la\ clase\ Procedimiento.\r\n
+comment2.params=
+comment2.target=void\ Operaciones()
+comment2.text=\r\n\ M\u00E9todo\ heredado,\ sin\ uso.\r\n
+comment3.params=Num\ N\u00FAmeroM\u00E1sico
+comment3.target=void\ C\u00E1lculos(int,\ int)
+comment3.text=\r\n\ M\u00E9todo\ para\ calcular\ cantidad\ de\ neutrones\ en\ el\ \u00E1tomo.\r\n\ Introduzca\ n\u00FAmero\ at\u00F3mico\r\n\ Introduzca\ n\u00FAmero\ de\ masa\ de\ forma\ redondeada\r\n\ Ejemplo\:\ Si\ el\ n\u00FAmero\ de\ masa\ es\ 10.811\ colocar\ 11.\ Si\ es\ 40.44\ colocar\ 40.\ \r\n
+numComments=4

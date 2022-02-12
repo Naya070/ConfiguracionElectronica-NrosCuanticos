@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Configuraci\u00F3nElectr\u00F3nica
+comment1.params=Num
+comment1.target=Configuraci\u00F3nElectr\u00F3nica(int)
+comment1.text=\r\n\ Constructor\ heredado\ de\ la\ clase\ Procedimiento.\r\n
+comment2.params=
+comment2.target=void\ Operaciones()
+comment2.text=\r\n\ M\u00E9todo\ que\ realiza\ el\ procedimiento\ para\ tener\ la\ configuraci\u00F3n\ electr\u00F3nica\r\n
+comment3.params=
+comment3.target=void\ ObtenerConfElect()
+comment3.text=\r\n\ M\u00E9todo\ para\ obtener\ la\ configuraci\u00F3n\ electr\u00F3nica\ calculada\ mediante\ el\ m\u00E9todo\ Operaciones\r\n\ Muestra\ la\ configuraci\u00F3n\ electr\u00F3nica\ seg\u00FAn\ el\ n\u00FAmero\ at\u00F3mico.\ \r\n
+numComments=4

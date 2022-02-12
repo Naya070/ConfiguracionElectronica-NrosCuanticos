@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=N\u00FAmerosCu\u00E1nticos
+comment1.params=Num
+comment1.target=N\u00FAmerosCu\u00E1nticos(int)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ N\u00FAmerosCu\u00E1nticos\r\n
+comment2.params=
+comment2.target=void\ Operaciones()
+comment2.text=\r\n\ M\u00E9todo\ que\ realiza\ el\ procedimiento\ para\ tener\ los\ n\u00FAmeros\ cu\u00E1nticos.\r\n
+comment3.params=
+comment3.target=void\ ObtenerNumCuan()
+comment3.text=\r\n\ M\u00E9todo\ para\ obtener\ los\ n\u00FAmeros\ cu\u00E1nticos\ calculados\ mediante\ el\ m\u00E9todo\ Operaciones\r\n\ Muestra\ los\ n\u00FAmeros\ cu\u00E1nticos\ seg\u00FAn\ el\ n\u00FAmero\ at\u00F3mico.\ \r\n
+numComments=4

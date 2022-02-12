@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Procedimiento
+comment1.params=N\u00FAmeroAt\u00F3mico
+comment1.target=Procedimiento(int)
+comment1.text=\r\n\ Constructor\ heredable\ de\ Superclase\ Procedimiento\r\n
+comment2.params=
+comment2.target=void\ PedirN\u00FAmeroAt\u00F3mico()
+comment2.text=\r\n\ M\u00E9todo\ heredable\ para\ pedir\ o\ modificar\ el\ n\u00FAmero\ at\u00F3mico\ introducido.\r\n
+comment3.params=
+comment3.target=void\ Operaciones()
+comment3.text=\r\n\ M\u00E9todo\ heredable\ para\ sobreescribir\ posteriormente.\r\n
+comment4.params=
+comment4.target=void\ C\u00E1lculos()
+comment4.text=\r\n\ M\u00E9todo\ heredable\ para\ sobreescribir\ posteriormente.\r\n
+comment5.params=
+comment5.target=void\ MostrarResultado()
+comment5.text=\r\n\ M\u00E9todo\ heredable\ para\ obtener\ el\ n\u00FAmero\ at\u00F3mico\ introducido.\r\n
+numComments=6

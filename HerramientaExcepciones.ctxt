@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HerramientaExcepciones
+comment1.params=Num
+comment1.target=boolean\ SValidar(java.lang.String)
+comment2.params=Num
+comment2.target=boolean\ IValidar(int)
+comment3.params=ConfElect
+comment3.target=boolean\ ConfElectValidar(java.lang.String)
+comment4.params=ConfElect
+comment4.target=boolean\ ConfElectVal(java.lang.String)
+comment5.params=N\u00FAmeroM\u00E1sico\ Gramos
+comment5.target=boolean\ C\u00E1lculos(double,\ double)
+numComments=6

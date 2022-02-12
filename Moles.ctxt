@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Moles
+comment1.params=
+comment1.target=Moles()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ moles\r\n
+comment2.params=
+comment2.target=void\ Operaciones()
+comment2.text=\r\n\ M\u00E9todo\ heredado,\ sin\ uso.\r\n
+comment3.params=Gramos\ N\u00FAmeroM\u00E1sico
+comment3.target=void\ C\u00E1lculos(double,\ double)
+comment3.text=\r\n\ M\u00E9todo\ para\ calcular\ Moles\r\n
+numComments=4
